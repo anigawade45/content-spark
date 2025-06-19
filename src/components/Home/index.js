@@ -1,0 +1,9 @@
+export { HeroBackground } from './HeroBackground';
+export { HeroHeadline } from './HeroHeadline';
+export { HeroCTAButtons } from './HeroCTAButtons';
+export { HeroStatsGrid } from './HeroStatsGrid';
+export { HeroSection } from './HeroSection';
+export { WhyChooseUs } from './WhyChooseUs';
+export { FeaturedWorkCarousel } from './FeaturedWorkCarousel';
+export { ClientLogosScroller } from './ClientLogosScroller';
+export { PrimaryCTASection } from './PrimaryCTASection'; 
