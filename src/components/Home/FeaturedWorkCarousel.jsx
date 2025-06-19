@@ -80,7 +80,7 @@ export const FeaturedWorkCarousel = () => {
       url: "https://www.instagram.com/p/C89c6mYybBZ/",
       likes: "43",
       comments: "4",
-      thumbnail: "/src/assets/reel1.png"
+      thumbnail: "images/reel1.png"
     },
     {
       id: "CnwbrTMNGzp",
@@ -89,7 +89,7 @@ export const FeaturedWorkCarousel = () => {
       url: "https://www.instagram.com/reel/CnwbrTMNGzp/",
       likes: "32",
       comments: "4",
-      thumbnail: "/src/assets/reel2.png"
+      thumbnail: "images/reel2.png"
     },
     {
       id: "C3nAI9fvIw7",
@@ -98,7 +98,7 @@ export const FeaturedWorkCarousel = () => {
       url: "https://www.instagram.com/p/C3nAI9fvIw7/",
       likes: "2.7K",
       comments: "48",
-      thumbnail: "/src/assets/reel3.png"
+      thumbnail: "images/reel3.png"
     },
     {
       id: "CnoyllQLv5i",
@@ -107,7 +107,7 @@ export const FeaturedWorkCarousel = () => {
       url: "https://www.instagram.com/p/CnoyllQLv5i/",
       likes: "1884",
       comments: "12",
-      thumbnail: "/src/assets/reel4.png"
+      thumbnail: "images/reel4.png"
     },
   ];
 
@@ -235,7 +235,7 @@ export const FeaturedWorkCarousel = () => {
                         </motion.div>
                       </div>
                       <img
-                        src={reel.thumbnail || '/src/assets/placeholder.jpg'}
+                        src={reel.thumbnail || 'images/placeholder.jpg'}
                         alt={reel.title}
                         className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 ease-out"
                       />

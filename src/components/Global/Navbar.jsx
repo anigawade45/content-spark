@@ -96,7 +96,7 @@ const Navbar = () => {
               )}
             >
               <img
-                src="/src/assets/logo.png"
+                src="images/logo.png"
                 alt="ContentSpark Logo"
                 className="h-14 w-auto object-contain transition-all duration-300 drop-shadow-[0_0_16px_#FCEC01] group-hover:scale-110 group-hover:drop-shadow-[0_0_32px_#A511CE,0_0_48px_#FCEC01] drop-shadow-[0_0_8px_rgba(255,255,255,0.5)]"
               />

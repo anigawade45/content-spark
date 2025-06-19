@@ -3,18 +3,18 @@ import Marquee from "react-fast-marquee";
 import { SectionBackground } from "../Global/SectionBackground";
 
 const clients = [
-  { name: "RIGI", logo: "/src/assets/rigi.png" },
-  { name: "hubble", logo: "/src/assets/hubble.png" },
-  { name: "finvasia", logo: "/src/assets/finvasia.png" },
-  { name: "bullsmart", logo: "/src/assets/bullsmart.png" },
-  { name: "5paisa", logo: "/src/assets/5paisa.png" },
-  { name: "HappyCredit", logo: "/src/assets/happycredit.png" },
-  { name: "IIFL", logo: "/src/assets/iifl.png" },
-  { name: "knowello", logo: "/src/assets/knowello.png" },
-  { name: "Startup Maharashtra", logo: "/src/assets/startupmaharashtra.png" },
-  { name: "Fivestera", logo: "/src/assets/fivestera.png" },
-  { name: "Choice", logo: "/src/assets/choice.png" },
-  { name: "Financial Adda", logo: "/src/assets/financialadda.png" },
+  { name: "RIGI", logo: "images/rigi.png" },
+  { name: "hubble", logo: "images/hubble.png" },
+  { name: "finvasia", logo: "images/finvasia.png" },
+  { name: "bullsmart", logo: "images/bullsmart.png" },
+  { name: "5paisa", logo: "images/5paisa.png" },
+  { name: "HappyCredit", logo: "images/happycredit.png" },
+  { name: "IIFL", logo: "images/iifl.png" },
+  { name: "knowello", logo: "images/knowello.png" },
+  { name: "Startup Maharashtra", logo: "images/startupmaharashtra.png" },
+  { name: "Fivestera", logo: "images/fivestera.png" },
+  { name: "Choice", logo: "images/choice.png" },
+  { name: "Financial Adda", logo: "images/financialadda.png" },
 ];
 
 export const ClientLogosScroller = () => {
